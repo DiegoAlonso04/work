@@ -1,0 +1,23 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el proyecto en la carpeta `work`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoAlonso04/work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoAlonso04/work/issues"
+  },
+  "homepage": "https://github.com/DiegoAlonso04/work#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
